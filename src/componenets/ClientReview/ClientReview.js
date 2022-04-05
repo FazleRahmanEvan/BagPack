@@ -12,6 +12,7 @@ const ClientReview = () => {
 
 <div className='flex md:flex-row flex-col flex-wrap justify-center container mx-auto m-5'>
     {
+        
         review && review.slice(0, 3).map(review => <Review key = {review._id} review = {review} />)
     }
 </div>
