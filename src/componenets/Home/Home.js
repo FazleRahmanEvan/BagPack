@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import CustomerReview from '../CustomerReview/CustomerReview';
 
 import './Home.css';
@@ -28,10 +29,12 @@ const Home = () => {
           </div>
         </div>
         <div className="mt-10 flex justify-center">
+
         <CustomerReview></CustomerReview>
         
         </div>
         
+              <Link to ="/customerreview"><button className="mt-10  bg-blue-300 rounded p-3 font-bold">See All Review</button></Link>
        
       </div>
     );
