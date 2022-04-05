@@ -9,7 +9,7 @@ const Home = () => {
         <div className="mt-10 mb-10">
         <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center ">
           <div className="p-5 lg:mt-10">
-            <h1 className="text-6xl font-bold px-10">Bag For All</h1>
+            <h1 className="text-6xl font-bold px-10">BagPack</h1>
             <h1 className="text-6xl pt-5 px-10 font-bold text-indigo-600">
              Exclusive Bags
             </h1>
