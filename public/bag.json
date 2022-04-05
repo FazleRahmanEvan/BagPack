@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Cristiano Ronado",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fradiofreesoccer.com%2Fronaldo%2F&psig=AOvVaw0p6fnJ8LdsiFae2rPpFeak&ust=1649190808058000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKiQ7tWg-_YCFQAAAAAdAAAAABAD",
+        "title": "Very good bag.Recommended for students.",
+        "rating": "4"
+    },
+    {
+        "id":2,
+        "name": "Neymar",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fneymarjr%2Fstatus%2F861622562064912388&psig=AOvVaw06oUMHxU5bOfS0R_Q036vn&ust=1649190966969000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIi0waKh-_YCFQAAAAAdAAAAABAD",
+        "title": "This bag helps me a lot to carry every books",
+        "rating": "5"
+    },
+    {
+        "id":3,
+        "name": "Messi",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gqmiddleeast.com%2Fstyle%2Flionel-messis-fashion-line-is-here-and-er-well-pass-thanks&psig=AOvVaw0osMrgdL_jmlyLAbHEFDzs&ust=1649191046886000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNjEmcuh-_YCFQAAAAAdAAAAABAV",
+        "title": "Love this bag. Author is really a talented person.",
+        "rating": "4.5"
+    },
+    {
+        "id":4,
+        "name": "Mbappe",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.paipee.com%2F2021%2F06%2F14%2Fmbappe-nega-ter-pedido-jogadores-para-renovar-com-psg%2F&psig=AOvVaw0SV3wwRqImvWs3BBGtz30Q&ust=1649191158483000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODI4vyh-_YCFQAAAAAdAAAAABAS",
+        "title": "Very organized and well designed .",
+        "rating": "5"
+    },
+    {
+        "id":5,
+        "name": "Halaand",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10151678171374977%26id%3D26696569976%26p%3D27&psig=AOvVaw1dmUAgBdfKD17s3yNn93Ho&ust=1649191228216000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjyzbWi-_YCFQAAAAAdAAAAABAE",
+        "title": "This bag is amazing for school students.I loved it.",
+        "rating": "3.6"
+    },
+    {
+        "id":6,
+        "name": "Salah",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liverpoolfc.com%2Fnews%2Ffirst-team%2F266787-milner-backs-mohamed-salah-to-suit-the-liverpool-style&psig=AOvVaw2tSe9-kkh3el6Q8I4oxkDF&ust=1649191397666000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOimlf-i-_YCFQAAAAAdAAAAABAD",
+        "title": "It's a good bag for everyone.",
+        "rating": "4"
+    }
+]

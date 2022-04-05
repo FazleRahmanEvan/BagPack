@@ -1,0 +1,11 @@
+nav{
+    margin-top: 16px;
+}
+nav a{
+    text-decoration: none;
+    color:blueviolet;
+    margin-right: 50px;
+}
+nav a:hover{
+    color:rgb(237, 148, 100);
+}
