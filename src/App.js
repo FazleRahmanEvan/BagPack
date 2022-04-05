@@ -8,6 +8,7 @@ import CustomerReview from './componenets/CustomerReview/CustomerReview';
 import DashBoard from './componenets/DashBoard/DashBoard';
 import Header from './componenets/Header/Header';
 import Home from './componenets/Home/Home';
+import NotFound from './componenets/Not Found/NotFound';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path='/dashboard'element ={<DashBoard></DashBoard>}></Route>
           <Route path='/blogs'element ={<Blogs></Blogs>}></Route>
           <Route path='/about'element ={<About></About>}></Route>
+          <Route path="*" element={<NotFound />} />
           </Routes>         
     </div>
   );
