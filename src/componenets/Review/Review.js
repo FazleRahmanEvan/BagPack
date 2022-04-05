@@ -9,7 +9,7 @@ const Review = ({review}) => {
     <div className="basis-1/3 my-5 p-2">
             <div className='border-solid rounded border-2 border-sky-500 p-5'>
                 <div className='flex flex-row'>
-                    <img className='basis-1/5 review-img' src={img} alt=""/>
+                    <img className='basis-1/5 review-img' src={img} alt="" srcset="" />
                     <div className='basis-4/5'>
                         <h5 className='text-2xl my-2'>{name}</h5>
                         

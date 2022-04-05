@@ -2,9 +2,11 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div>
-            <h2>I am EVAN...</h2>
-        </div>
+       
+        <div className="font-bold text-lg mt-[100px]">
+       
+      </div>
+      
     );
 };
 
